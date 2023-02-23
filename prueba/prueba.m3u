@@ -83,6 +83,10 @@ http://86459492047165392.nicesjb.xyz:80/play/ja919164/7945667668/165392.ts
 http://86459492047320781.nicesjb.xyz:80/play/ja919164/7945667668/320781.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LALIGA 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png" group-title=" ES 01 MOVISTAR+",ES: DAZN LALIGA 2 HD
 http://86459492047320779.nicesjb.xyz:80/play/ja919164/7945667668/320779.ts
+#EXTINF:-1 tvg-id="DAZN 3" tvg-name="ES: DAZN 3" tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/01/20/16111644375935.jpg" group-title="DAZN",DAZN 3 h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/66178.m3u
+#EXTINF:-1 tvg-id="DAZN 4" tvg-name="ES: DAZN 4" tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/01/20/16111644375935.jpg" group-title="DAZN",DAZN 4 h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/66180.m3u
 #EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="ES: M+ DEPORTES HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/cfb9e3a05ca4b0452cbcd5bece3485f0.png" group-title=" ES 01 MOVISTAR+",ES: M+ DEPORTES HD
 http://86459492047268070.nicesjb.xyz:80/play/ja919164/7945667668/268070.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: M+ DEPORTES 1 HD" tvg-logo="" group-title=" ES 01 MOVISTAR+",ES: M+ DEPORTES 1 HD
@@ -133,5 +137,45 @@ http://86459492047321222.nicesjb.xyz:80/play/ja919164/7945667668/321222.ts
 http://86459492047321224.nicesjb.xyz:80/play/ja919164/7945667668/321224.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: TEN HD" tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/TEN" group-title=" ES 01 MOVISTAR+",ES: TEN HD
 http://86459492047321439.nicesjb.xyz:80/play/ja919164/7945667668/321439.ts
-#EXTINF:-1 tvg-id="ES | LaLigaTV por M+" tvg-name="ES | LaLigaTV por M+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg/250px-LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="DEPORTES", ES LCAMPEONES
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/126981
+#EXTINF:-1 tvg-id="M+LCAMPEONES" tvg-name="ES: M+ LIGA CAMPEONES HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAPIO.png" group-title="FUTBOL SATELITE",M. LIGA CAMPEONES HD 1080P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/69876.m3u
+#EXTINF:-1 tvg-id="M+LCAMPEONES" tvg-name="ES: M+ LIGA CAMPEONES HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAPIO.png" group-title="FUTBOL SATELITE",M. LIGA CAMPEONES HD 720p
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/69887.m3u
+#EXTINF:-1 tvg-id="M+LCAMPEON2" tvg-name="ES: M+ LIGA CAMPEONES 2 HD 1080P" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc2.png" group-title="FUTBOL SATELITE",M. LIGA CAMPEONES 2 HD 1080P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/69877.m3u
+#EXTINF:-1 tvg-id="M+LCAMPEON2" tvg-name="ES: M+ LIGA CAMPEONES 2 HD 720P" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc2.png" group-title="FUTBOL SATELITE",M. LIGA CAMPEONES 2 HD 720P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/95031.m3u
+#EXTINF:-1 tvg-id="M+LCAMPEON3" tvg-name="ES: M+ LIGA CAMPEONES 3 h264" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc3.png" group-title="FUTBOL SATELITE",M. LIGA CAMPEONES 3 h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/69878.m3u
+#EXTINF:-1 tvg-id="M+LCAMPEON4" tvg-name="ES: M+ LIGA CAMPEONES 4 h264" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc4.png" group-title="FUTBOL SATELITE",M. LIGA CAMPEONES 4 h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/69879.m3u
+#EXTINF:-1 tvg-id="M+LCAMPEON5" tvg-name="ES: M+ LIGA CAMPEONES 5 h264" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc5.png" group-title="FUTBOL SATELITE",M. LIGA CAMPEONES 5 h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/69880.m3u
+#EXTINF:-1 tvg-id="M+LCAMPEON6" tvg-name="ES: M+ LIGA CAMPEONES 6 h264" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc6.png" group-title="FUTBOL SATELITE",M. LIGA CAMPEONES 6 h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/69881.m3u
+#EXTINF:-1 tvg-id="M+LCAMPEON7" tvg-name="ES: M+ LIGA CAMPEONES 7 h264" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc7.png" group-title="FUTBOL SATELITE",M. LIGA CAMPEONES 7 h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/69882.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LIGA CAMPEONES 8 h264" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc8.png" group-title="FUTBOL SATELITE",M. LIGA CAMPEONES 8 h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/69883.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LIGA CAMPEONES 9 h264" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc9.png" group-title="FUTBOL SATELITE",M. LIGA CAMPEONES 9 h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/95015.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LIGA CAMPEONES 10 h264" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc10.png" group-title="FUTBOL SATELITE",M. LIGA CAMPEONES 10 h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/95016.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LIGA CAMPEONES 11 h264" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc11.png" group-title="FUTBOL SATELITE",M. LIGA CAMPEONES 11 h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/95017.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES:  M. LIGA CAMPEONES 12 h264" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc12.png" group-title="FUTBOL SATELITE",M. LIGA CAMPEONES 12 h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/95018.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LIGA CAMPEONES 13 h264" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc13.png" group-title="FUTBOL SATELITE",M. LIGA CAMPEONES 13 h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/95019.m3u
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="ES: DAZN F1 4K" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="DAZN",DAZN F1 4K
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/51731.m3u
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="ES: DAZN F1 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="DAZN",DAZN F1 HD 1080P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/51732.m3u
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="ES: DAZN F1 HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="DAZN",DAZN F1 HD 720P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/57320.m3u
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="ES: DAZN F1 h264" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="DAZN",DAZN F1 h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/57321.m3u
+#EXTINF:-1 tvg-id="Liga SmartBank" tvg-name="ES: LALIGA SMARTBANK HD 1080P" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/bd/9b/liga-smartbank-segunda-division_xhswjieo133q103y74ktzlvz9.jpg" group-title="FUTBOL SATELITE",LALIGA SMARTBANK HD 1080P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/93647.m3u
+#EXTINF:-1 tvg-id="Liga SmartBank" tvg-name="ES: LALIGA SMARTBANK HD 720P" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/bd/9b/liga-smartbank-segunda-division_xhswjieo133q103y74ktzlvz9.jpg" group-title="FUTBOL SATELITE",LALIGA SMARTBANK HD 720P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/93653.m3u
